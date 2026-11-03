@@ -2316,6 +2316,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Vantage](https://vantagemcp.dev) `https://vantagemcp.dev/mcp`
   [![Vantage MCP connector](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage/badges/score.svg)](https://glama.ai/mcp/connectors/dev.vantagemcp/vantage)
   🔐 - Ask questions about cloud cost and usage data.
+- [Veridion Markets](https://www.veridionmarkets.com/data-api) `https://www.veridionmarkets.com/api/mcp`
+  🔓 - US government financial disclosures (House and Senate STOCK Act, the President's OGE filings, SEC Form 4) with links to the government filing, owner as printed, and point-in-time history; higher limits need a key.
 - [Veqen](https://veqen-app.com/docs/mcp) `https://veqen-app.com/mcp`
   [![Veqen MCP connector](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Keyveve/veqen)
   🔐 - Track AI cost by customer and feature, compare model prices, inspect reconciliation and create budgets.
